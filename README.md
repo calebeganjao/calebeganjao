@@ -1,5 +1,5 @@
 ### 👋 Olá, sejam bem vindos ao meu perfil.
-🌱 Atualmente estou dando os primeiros passos na programação e aprendendo
+🌱Estou iniciando na programação e aprendendo
 JavaScript, React, HTML & CSS.
 
 📫 calebe_ganjao@hotmail.com
