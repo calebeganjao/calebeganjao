@@ -1,6 +1,6 @@
-### 👋 Olá, sejam bem vindos ao meu perfil.
-🌱Estou iniciando na programação e aprendendo
-JavaScript, React, HTML & CSS.
+# 👋 Olá, eu sou o Caleb!
+
+Sou estudante de desenvolvimento web e atualmente focado em aprender **HTML, CSS e JavaScript**, dando meus primeiros passos rumo ao **Front-end**.  
 
 
 <div style="display: inline_block"><br>
@@ -12,10 +12,9 @@ JavaScript, React, HTML & CSS.
 
 
 
+⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para olhar meus projetos.*
 
 
 
 
-<!--
-**calebeganjao/calebeganjao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
