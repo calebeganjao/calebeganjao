@@ -10,7 +10,7 @@ Sou estudante de desenvolvimento web e atualmente focado em aprender **HTML, CSS
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-
+<br>
 
 ⭐ *Obrigado por visitar meu perfil! Sinta-se à vontade para olhar meus projetos.*
 
